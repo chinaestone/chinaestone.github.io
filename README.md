@@ -1,7 +1,8 @@
-# Estone Daily Essay
+# Estone's Daily Essay
 ----
 
-#### 计划开发一个统一的路径管理器
+#### 计划开发一个统一的路径管理器  
+
 > 设计目标  
 
 1.支持j2se j2ee两种项目下的工程路径    
