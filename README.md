@@ -1,5 +1,8 @@
 # Estone's Daily Essay
 
+https://chinaestone.github.io
+
+
 #### 计划开发一个统一的路径管理器  
 
 > 设计目标  
@@ -17,3 +20,5 @@
 
 MySQL 学习笔记
 http://notes.diguage.com/mysql/#_schema_设计
+
+
