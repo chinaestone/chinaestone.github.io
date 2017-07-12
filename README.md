@@ -13,3 +13,7 @@
 4.支持spring使用FileSystemResourcePath时在unix和windows下面路径不一致的问题    
 
 
+#### 高质量的一些文章
+
+MySQL 学习笔记
+http://notes.diguage.com/mysql/#_schema_设计
