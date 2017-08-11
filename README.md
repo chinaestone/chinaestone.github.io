@@ -21,4 +21,8 @@ https://chinaestone.github.io
 MySQL 学习笔记
 http://notes.diguage.com/mysql/#_schema_设计
 
+系统重构文章推荐
+http://www.10tiao.com/html/46/201606/2650993001/1.html
 
+开发者头条
+http://www.10tiao.com/
