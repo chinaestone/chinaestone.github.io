@@ -1,27 +1,52 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+# ---------------- #
+#   Main Configs   #
+# ---------------- #
+baseurl: 
+url: http://mazhuang.org/jekyll-theme-solid
+date_format: "ordinal"
+title: jekyll-theme-solid
+author: Zhuang Ma 
 
-twitter_username: jekyllrb
-github_username:  jekyll
+# ---------------- #
+#   RSS / Email    #
+# ---------------- #
+subscribe_rss: /feed.xml
+email:
 
-# Minima date format
-# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
-minima:
-  date_format: "%b %-d, %Y"
-
-# If you want to link only specific pages in your header, uncomment
-# this and add the path to the pages in order as they should show up
-#header_pages:
-# - about.html
-
-# Build settings
+# ---------------- #
+#      Jekyll      #
+# ---------------- #
 markdown: kramdown
-theme: minima
-exclude:
-  - Gemfile
-  - Gemfile.lock
+kramdown:
+    input: GFM
+paginate: 9
+permalink: /:year/:month/:day/:title/
+gems:
+    - jekyll-paginate
+    - jekyll-sitemap
+    - jekyll-feed
+    - jemoji
+collections:
+    wiki:
+        output: true
+        permalink: /wiki/:path/
+
+# ---------------- #
+#      Comments    #
+# ---------------- #
+# support provider: disqus, gitment
+comments_provider: gitment
+# !!!重要!!! 请修改下面这些信息为你自己申请的
+# !!!Important!!! Please modify infos below to yours
+# https://disqus.com
+disqus:
+    username: mzlogin
+# https://imsun.net/posts/gitment-introduction/
+gitment:
+    owner: mzlogin
+    repo: jekyll-theme-solid
+    oauth:
+        client_id: d2e1cbbd298958076462
+        client_secret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
+# 在使用其它评论组件时可点击显示 Disqus
+lazy_load_disqus : false
