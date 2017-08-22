@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ---------------- #
 #   Main Configs   #
 # ---------------- #
@@ -50,3 +51,32 @@ gitment:
         client_secret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : false
+=======
+title: 中國壹石頭
+thor: GitHub User
+email: chinaestone@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+ 
+twitter_username: jekyllrb
+github_username:  jekyll
+
+# Minima date format
+# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
+minima:
+  date_format: "%b %-d, %Y"
+
+# If you want to link only specific pages in your header, uncomment
+# this and add the path to the pages in order as they should show up
+#header_pages:
+# - about.html
+
+# Build settings
+markdown: kramdown
+theme: minima
+exclude:
+  - Gemfile
+  - Gemfile.lock
+>>>>>>> bcb580ed29208931fa9beb2aebe89b71f1982dda
