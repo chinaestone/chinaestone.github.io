@@ -29,5 +29,3 @@ http://www.10tiao.com/
 
 Golang代码规范 
 https://sheepbao.github.io/post/golang_code_specification/
-
->>>>>>> bcb580ed29208931fa9beb2aebe89b71f1982dda
