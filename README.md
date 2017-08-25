@@ -29,3 +29,9 @@ http://www.10tiao.com/
 
 Golang代码规范 
 https://sheepbao.github.io/post/golang_code_specification/
+
+GoF设计模式 - 概述
+https://www.bughui.com/2017/06/10/gof-design-pattern-overview/
+
+如何写代码 —— 编程内功心法
+https://www.bughui.com/2017/08/21/how-to-write-code/
