@@ -35,3 +35,14 @@ https://www.bughui.com/2017/06/10/gof-design-pattern-overview/
 
 如何写代码 —— 编程内功心法
 https://www.bughui.com/2017/08/21/how-to-write-code/
+
+
+Makefiles for Golang
+https://sahilm.com/makefiles-for-golang/
+
+鱼*后花园(不知道是不是一个人的博客，感觉一个大老爷们，文章挺矫情的)
+https://blog.fishlee.net
+
+落格博客
+https://www.logcg.com
+
