@@ -49,3 +49,5 @@ https://www.logcg.com
 (写出)漂亮的敏捷代码最佳实践
 https://www.youtube.com/watch?v=wf-BqAjZb8M
 
+假如时光能够倒流， 我会这么学习Java 
+https://buluo.qq.com/p/detail.html?bid=16614&pid=9855242-1458470376
