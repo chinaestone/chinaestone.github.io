@@ -46,3 +46,6 @@ https://blog.fishlee.net
 落格博客
 https://www.logcg.com
 
+(写出)漂亮的敏捷代码最佳实践
+https://www.youtube.com/watch?v=wf-BqAjZb8M&t=2425s&list=PLSTMHqR4KXGsgnDHwg26apbdvFWCIhm9s&index=1
+
