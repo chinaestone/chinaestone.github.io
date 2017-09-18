@@ -57,3 +57,13 @@ http://www.rowkey.me/blog/2016/08/27/server-basic-tech-stack/
 
 Youtube开发相关频道列表
 https://www.channelshunt.com/subcategory/Programming/
+
+centos deny ping option
+第二个方法，我们直接通过命令解决：
+sysctl -w net.ipv4.icmp_echo_ignore_all=1
+sysctl -p
+禁止命令。
+sysctl -w net.ipv4.icmp_echo_ignore_all=0
+sysctl -p
+
+
