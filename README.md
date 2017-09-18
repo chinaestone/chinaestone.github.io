@@ -51,3 +51,6 @@ https://www.youtube.com/watch?v=wf-BqAjZb8M
 
 假如时光能够倒流， 我会这么学习Java 
 https://buluo.qq.com/p/detail.html?bid=16614&pid=9855242-1458470376
+
+谈谈互联网后端基础设施
+http://www.rowkey.me/blog/2016/08/27/server-basic-tech-stack/
