@@ -54,3 +54,6 @@ https://buluo.qq.com/p/detail.html?bid=16614&pid=9855242-1458470376
 
 谈谈互联网后端基础设施
 http://www.rowkey.me/blog/2016/08/27/server-basic-tech-stack/
+
+Youtube开发相关频道列表
+https://www.channelshunt.com/subcategory/Programming/
