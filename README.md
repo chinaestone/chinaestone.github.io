@@ -70,4 +70,7 @@ sysctl -p
 sysctl -w net.ipv4.icmp_echo_ignore_all=0
 sysctl -p
 
+springcloud(六)：配置中心git示例
+http://www.ityouknow.com/springcloud/2017/05/22/springcloud-config-git.html
+
 
