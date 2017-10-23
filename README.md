@@ -79,3 +79,8 @@ http://www.roncoo.com/article/detail/130121#0-sqq-1-48548-9737f6f9e09dfaf5d3fd14
 
 window alias设置
 doskey mvn_skip=mvn clean install -Dmaven.test.skip=true
+
+经典宝箱掉落算法 
+https://www.lanhusoft.com/Article/421.html 
+
+
