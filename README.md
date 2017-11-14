@@ -87,3 +87,6 @@ https://www.lanhusoft.com/Article/421.html
 前端码农写Java 一些思想可以借鉴下
 https://segmentfault.com/a/1190000004600730
 https://segmentfault.com/a/1190000005039478
+
+龙之谷服务器设计
+http://blog.csdn.net/D_Guco/article/details/78339449
