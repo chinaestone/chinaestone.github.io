@@ -91,15 +91,11 @@ https://segmentfault.com/a/1190000005039478
 龙之谷服务器设计
 http://blog.csdn.net/D_Guco/article/details/78339449
 
-
-
-
-
-
 Adopt OpenJDK: Getting Started Kit
 https://www.gitbook.com/book/adoptopenjdk/adoptopenjdk-getting-started-kit/details
 
-
+和 PingCAP CTO 畅谈数据库和编程语言
+http://teahour.fm/2017/11/22/new-database-go-and-rust-with-cto-of-pingcap.html
 
 
 
